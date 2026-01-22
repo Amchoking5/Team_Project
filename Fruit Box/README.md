@@ -40,7 +40,7 @@
 # 📊 Structure
 
 <details>
-<summary>문서 전처리 학습과정</summary>
+<summary>요약</summary>
 <div markdown="1" style="padding-left: 15px;">
 <img src="https://github.com/user-attachments/assets/d7505aa2-c3e9-478d-8017-1dcf40f85abd" width="800px"/>
 </div>
