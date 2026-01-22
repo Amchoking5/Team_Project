@@ -85,7 +85,6 @@
 <img src="https://github.com/user-attachments/assets/da88f93a-8b80-408e-9434-0888b2b0d30e" width="800px"/>
 </div>
 </details>
-<details>
 
 <br />
 
@@ -95,7 +94,6 @@
 <img src="https://github.com/user-attachments/assets/6878563f-fd2c-4cc1-b2d6-580f8a86651d" width="800px"/>
 </div>
 </details>
-<details>
 <br />
 
 # 🔑 핵심기능

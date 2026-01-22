@@ -52,7 +52,6 @@
 <img src="https://github.com/user-attachments/assets/e81e720f-146f-4520-bfe3-9b7c786ad8ff" width="800px"/>
 </div>
 </details>
-<details>
 
 <br />
 

@@ -53,7 +53,6 @@
 <img src="https://github.com/user-attachments/assets/7c24bdf9-c085-42c2-bbdc-0cd7babf2d0f" width="800px"/>
 </div>
 </details>
-<details>
 
 <br />
 
