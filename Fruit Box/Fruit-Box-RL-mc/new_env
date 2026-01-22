@@ -1,0 +1,27 @@
+import ray 
+from env import AppleEnv
+from ray.rllib.algorithms.ppo import PPOConfig
+from ray.rllib.agents import ppo
+from ray.tune.registry import register_env
+
+# === init ray ===
+ray.init()
+
+# === register env ===
+register_env("my_env", lambda config : AppleEnv(config))
+
+# === agent and env ===
+agent = ppo.PPOTrainer(env="my_env")
+env = AppleEnv()
+
+# === initial values === 
+obs = env.reset()
+done = False 
+episode_reward = 0
+
+# === choose actions with agent.compute_action(obs) === 
+while not done:
+    action = agent.compute_action(obs)
+    obs, reward, done, info = env.step(action)
+    episode_reward += reward
+    print(episode_reward)
