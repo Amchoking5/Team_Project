@@ -55,6 +55,7 @@
 
 <br />
 
+<details>
 <summary>답변 생성 과정</summary>
 <div markdown="1" style="padding-left: 15px;">
 <img src="https://github.com/user-attachments/assets/bd355e67-02a5-40d4-b646-4768f546ab2c" width="800px"/>
