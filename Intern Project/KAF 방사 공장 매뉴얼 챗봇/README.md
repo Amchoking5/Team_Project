@@ -51,7 +51,7 @@
 <details>
 <summary>피드백 페이지</summary>
 <div markdown="1" style="padding-left: 15px;">
-<img src="https://github.com/user-attachments/assets/708030fe-6b43-49e2-9089-3375ad7ee8ed" width="800px"/>
+<img src="https://github.com/user-attachments/assets/bb1d3bdc-18d8-46ba-91e1-1600a2a73911" width="800px"/>
 </div>
 </details>
 
