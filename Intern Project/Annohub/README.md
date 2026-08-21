@@ -68,10 +68,10 @@
 
 ### 1. Back-end
 
-> javascript
-> Node.js
-> Chroma DB
-> 공공 데이터 포탈 API
+> javascript  
+> Node.js  
+> Chroma DB  
+> 공공 데이터 포탈 API  
 
 ### 2. Front-end
 
