@@ -34,16 +34,12 @@
 </div>
 </details>
 
-<br />
-
 <details>
 <summary>Pairwise 기반 영상 점수 측정 페이지</summary>
 <div markdown="1" style="padding-left: 15px;">
 <img src="https://github.com/user-attachments/assets/a39dfd40-9c67-4ae6-b8f7-6c4db38e42fa" width="800px"/>
 </div>
 </details>
-
-<br />
 
 <details>
 <summary>Pairwise 기반 영상 점수 분석 페이지</summary>
@@ -52,16 +48,12 @@
 </div>
 </details>
 
-<br />
-
 <details>
 <summary>근태 확인 달력 페이지</summary>
 <div markdown="1" style="padding-left: 15px;">
 <img src="https://github.com/user-attachments/assets/dc6053f1-1e04-4ebb-be09-6e69d9855f45" width="800px"/>
 </div>
 </details>
-
-<br />
 
 <details>
 <summary>근태 분석 및 통계 확인</summary>
