@@ -35,16 +35,12 @@
 </div>
 </details>
 
-<br />
-
 <details>
 <summary>데이터 수집 페이지</summary>
 <div markdown="1" style="padding-left: 15px;">
 <img src="https://github.com/user-attachments/assets/92388f72-dc71-4850-bff7-7c294efcee4e" width="800px"/>
 </div>
 </details>
-
-<br />
 
 <details>
 <summary>영상 캡셔닝 페이지</summary>
@@ -53,16 +49,12 @@
 </div>
 </details>
 
-<br />
-
 <details>
 <summary>컷 분할 페이지</summary>
 <div markdown="1" style="padding-left: 15px;">
 <img src="https://github.com/user-attachments/assets/b53e4332-6250-4302-8549-59a27e81a1dd" width="800px"/>
 </div>
 </details>
-
-<br />
 
 <details>
 <summary>AI 학습 페이지</summary>
@@ -71,16 +63,12 @@
 </div>
 </details>
 
-<br />
-
 <details>
 <summary>영상 생성 페이지</summary>
 <div markdown="1" style="padding-left: 15px;">
 <img src="https://github.com/user-attachments/assets/748a2738-b746-4cb6-a387-be6fc6b5b161" width="800px"/>
 </div>
 </details>
-
-<br />
 
 <details>
 <summary>영상 평가 페이지</summary>
@@ -89,16 +77,12 @@
 </div>
 </details>
 
-<br />
-
 <details>
 <summary>영상 평가 상세 페이지</summary>
 <div markdown="1" style="padding-left: 15px;">
 <img src="https://github.com/user-attachments/assets/a4806d6f-e12d-4bcb-8d7c-5eb06f5fa82c" width="800px"/>
 </div>
 </details>
-
-<br />
 
 <details>
 <summary>얼굴 인식 페이지</summary>
@@ -107,16 +91,12 @@
 </div>
 </details>
 
-<br />
-
 <details>
 <summary>QA 평가 분석 페이지</summary>
 <div markdown="1" style="padding-left: 15px;">
 <img src="https://github.com/user-attachments/assets/c842ac55-a7c5-486f-beca-341ff8a78084" width="800px"/>
 </div>
 </details>
-
-<br />
 
 <details>
 <summary>AI Agent report 페이지</summary>
@@ -125,16 +105,12 @@
 </div>
 </details>
 
-<br />
-
 <details>
 <summary>API 연동 관리 페이지</summary>
 <div markdown="1" style="padding-left: 15px;">
 <img src="https://github.com/user-attachments/assets/7a40e6da-ffb9-446a-a754-0ea913353c8a" width="800px"/>
 </div>
 </details>
-
-<br />
 
 <details>
 <summary>데이터 흐름 관리 페이지</summary>
