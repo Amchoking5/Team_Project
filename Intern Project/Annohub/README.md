@@ -70,7 +70,7 @@
 
 > javascript  
 > Node.js  
-> Chroma DB  
+> Mongo DB  
 > 공공 데이터 포탈 API  
 
 ### 2. Front-end
@@ -84,7 +84,7 @@
 <details>
 <summary>Structure</summary>
 <div markdown="1" style="padding-left: 15px;">
-<img src="https://github.com/user-attachments/assets/dc07141b-c8ef-4008-ba1c-0f1b13ac9b4f"width="800px"/>
+<img src="https://github.com/user-attachments/assets/a1955bb2-06f7-48f4-a91c-4a179884d76e"width="800px"/>
 </div>
 </details>
 <br />
