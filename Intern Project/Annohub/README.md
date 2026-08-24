@@ -6,9 +6,9 @@
 
 # 📊 QA 데이터 수집 웹 페이지 : Annohub
 
-> 경쟁사 영상 생성 모델과 비교하여 성능을 파악하기 위한 벤치마크 QA 페이지입니다.
-> Java Script와 Node JS를 사용해 프론트엔드와 벡엔드를 구성했습니다.
-> PairWise, PointWise 방식으로 각각 QA의 점수를 측정하고, 결과를 Chroma DB에 저장합니다.
+> 경쟁사 영상 생성 모델과 비교하여 성능을 파악하기 위한 벤치마크 QA 페이지입니다.   
+> Java Script와 Node JS를 사용해 프론트엔드와 벡엔드를 구성했습니다.   
+> PairWise, PointWise 방식으로 각각 QA의 점수를 측정하고, 결과를 Chroma DB에 저장합니다.   
 
 ### 1. 제작기간
 
